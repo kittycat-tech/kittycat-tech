@@ -1,16 +1,17 @@
-### Hi there, I'm Erica👋
+### Hey there, I'm Erica! 👋
+I'm an entrepreneur who has taken on the exciting challenge of upskilling in software engineering :)
 
-I'm an entrepreneur and a former CEO  who fell in love with software engineering since last year.
+🚀 Recently, I completed my full-stack certification at MIT and I'm currently coding my first commercial SAAS prototype for my awesome business partners.
 
-I just recently finished my full-stack certification from MIT.
+🌍 Global business is my forte, and I'm currently pursuing my MBA degree part-time at Macquarie University, taking my skills to new heights.
 
-🔭 I’m currently coding my first commercial SAAS prototype (full-stack), for my business partners.
+✨ When I'm not busy coding, I enjoy a variety of hobbies. You can find me cooking up delicious meals, challenging opponents in online chess, piano, or golf, and spending quality time with my adorable fluffy cat.
 
-🌱 Doing global business is my strength and I'm also studying part-time for the MBA degree at the prestigious Macquarie University. 
+   Oh, and I have a green thumb too - gardening is my zen.
 
-⚡ I love: **C**ooking | **P**laying **c**hess,**p**iano, or **g**olf | **P**laying with my **f**luffy **c**at | **G**ardening
+Feel free to connect with me on LinkedIn! Let's make things happen together. 😄
 
-📫 How to reach me: https://www.linkedin.com/in/kittycat/
+LinkedIn: https://www.linkedin.com/in/kittycat/
 
 <!--
 **kittycat-tech/kittycat-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
