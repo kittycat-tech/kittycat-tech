@@ -3,7 +3,7 @@ I'm an entrepreneur who has taken on the exciting challenge of upskilling in sof
 
 🚀 Recently, I completed my full-stack certification at MIT and I'm currently coding my first commercial SAAS prototype for my awesome business partners.
 
-🌍 Global business is my forte, and I'm currently pursuing my MBA degree part-time at Macquarie University, taking my skills to new heights.
+🌍 Global business is my forte, and I'm currently pursuing my Global MBA degree part-time at Macquarie University, taking my skills to new heights.
 
 ✨ When I'm not busy coding, I enjoy a variety of hobbies. You can find me cooking up delicious meals, challenging opponents in online chess, piano, or golf, and spending quality time with my adorable fluffy cat.
 
