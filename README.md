@@ -7,7 +7,7 @@ I'm an entrepreneur who has taken on the exciting challenge of upskilling in sof
 
 ✨ When I'm not busy coding, I enjoy a variety of hobbies. You can find me cooking up delicious meals, challenging opponents in online chess, piano, or golf, and spending quality time with my adorable fluffy cat.
 
-   Oh, and I have a green thumb too - gardening is my zen.
+ 🌱 Oh, and I have a green thumb too - gardening is my zen.
 
 Feel free to connect with me on LinkedIn! Let's make things happen together. 😄
 
